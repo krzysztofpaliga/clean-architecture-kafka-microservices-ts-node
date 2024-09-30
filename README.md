@@ -2,4 +2,4 @@
 Uncle Bob's Clean Architecture implementation with TypeScript, node, express
 
 Following the tutorial:
-https://www.youtube.com/watch?v=nPsLL2OYJ-4
+https://www.youtube.com/playlist?list=PLaLqLOj2bk9aaZZYoH7tMDj5obE7os45_
